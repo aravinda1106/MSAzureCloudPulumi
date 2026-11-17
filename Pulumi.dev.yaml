@@ -1,0 +1,5 @@
+encryptionsalt: v1:/XQXCpo8TMY=:v1:TqnGprNJ1ONE7iLA:v9XYcIuBjjAf5Mt+LvHWqaYgVV1vjg==
+config:
+  azure-native:location: centralindia
+  pulumi-azure-labs:vnetCidr: 10.0.0.0/16
+  pulumi-azure-labs:sshSource: '*'
