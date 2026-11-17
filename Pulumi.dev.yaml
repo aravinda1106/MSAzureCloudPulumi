@@ -3,3 +3,5 @@ config:
   azure-native:location: centralindia
   pulumi-azure-labs:vnetCidr: 10.0.0.0/16
   pulumi-azure-labs:sshSource: '*'
+  pulumi-azure-labs:sshPublicKey: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDUAA97A9X9GGcrdJFpaRahjdYnYKZNd13OrRJfTI7tP azadmin2@SandboxHost-639304938006173795
+  pulumi-azure-labs:vmSize: Standard_B1s
